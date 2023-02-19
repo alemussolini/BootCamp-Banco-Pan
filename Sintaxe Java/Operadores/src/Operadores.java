@@ -7,6 +7,8 @@ public class Operadores {
         // > Maior
         // <= Menor igual
         // >= Maior igual
+        // && E
+        // || Ou
 
         /*  Classe Operadores.java
          *  double soma = 10.5 + 15.7
@@ -17,8 +19,12 @@ public class Operadores {
          *  double resultado = (10 * 7) + (20 / 4)
          */
 
-        String nomeCompleto = "Alessandro "+"Mussolini";
-        System.out.println(nomeCompleto);
+        // String nomeCompleto = "Alessandro "+"Mussolini";
+        // System.out.println(nomeCompleto);
+
+        boolean variavel = true;
+
+        System.out.println(!variavel);
 
     }
 }
