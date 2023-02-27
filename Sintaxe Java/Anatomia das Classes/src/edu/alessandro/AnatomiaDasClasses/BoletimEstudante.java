@@ -1,4 +1,5 @@
-package edu.alessandro.sintaxeJava;
+package edu.alessandro.AnatomiaDasClasses;
+
 public class BoletimEstudante {
     
     public static void main(String[] args) {

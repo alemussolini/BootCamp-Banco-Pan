@@ -1,4 +1,5 @@
-package edu.alessandro.sintaxeJava;
+package edu.alessandro.AnatomiaDasClasses;
+
 public class MinhaClasse {
     
     public static void main (String [] args ){
@@ -32,5 +33,7 @@ public class MinhaClasse {
 
              return primeiroNome.concat(" ").concat(segundoNome);
          }
+
+
     
 }
