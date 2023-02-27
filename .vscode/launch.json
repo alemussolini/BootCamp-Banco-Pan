@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex4ParEImpar",
+            "request": "launch",
+            "mainClass": "edu.alessandro.exercicios.Ex4ParEImpar",
+            "projectName": "BootCamp-Banco-Pan_a0f2551b"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex3MaiorEMedia",
             "request": "launch",
             "mainClass": "edu.alessandro.exercicios.Ex3MaiorEMedia",
