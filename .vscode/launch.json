@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex3MaiorEMedia",
+            "request": "launch",
+            "mainClass": "edu.alessandro.exercicios.Ex3MaiorEMedia",
+            "projectName": "BootCamp-Banco-Pan_a0f2551b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3ParEImpar",
+            "request": "launch",
+            "mainClass": "edu.alessandro.exercicios.Ex3ParEImpar",
+            "projectName": "BootCamp-Banco-Pan_a0f2551b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2Nota",
+            "request": "launch",
+            "mainClass": "edu.alessandro.exercicios.Ex2Nota",
+            "projectName": "BootCamp-Banco-Pan_a0f2551b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1NomeIdade",
+            "request": "launch",
+            "mainClass": "edu.alessandro.exercicios.Ex1NomeIdade",
+            "projectName": "BootCamp-Banco-Pan_a0f2551b"
+        },
+        {
+            "type": "java",
             "name": "Launch Usuario",
             "request": "launch",
             "mainClass": "edu.alessandro.metodos.Usuario",
